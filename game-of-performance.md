@@ -2,6 +2,8 @@ Title: **Game of Performance**
 
 Duration: 45-50min
 
+Links: [**slides**](https://slides.com/alexmoldovan/deck-8-9-18#/) | [**video**](https://www.youtube.com/watch?v=0ViSa7lOqP8)
+
 Tags: Web Performance, Browsers, Tooling 
 
 When you play the game of performance, you win or you die. Let's talk about the most important performance tips we need to take into consideration when building modern web applications. How fast should your page load? How much JS are you shipping to your users? How can you leverage the features of modern browsers?
