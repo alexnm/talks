@@ -21,6 +21,6 @@ We’re going to talk about the event loop and about the rendering pipeline. We 
 * The advantages of a vDOM implementation
 * How the rendering pipeline works
 * Which CSS rules trigger which stages from the rendering pipeline
-* The will-change property, how to us it
+* The will-change property, how to use it
 * setTimeout vs requestAnimationFrame
 * offloading to webworkers
