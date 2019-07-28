@@ -18,4 +18,4 @@ You might assume that this talk is about the latest tools and frameworks, or the
 
 But we will quickly shift towards the users, trying to balance our own needs with their needs. We are going to redefine user experience as the sum of all our users needs. In doing that we will underline the major focus point of frontend developers moving further.
 
-In the last part we will talk about automation and the impact of technology in our work. Automation is, without doubt, our ally against repetition. But automation might also unlock higher levels of abstraction in building software. And to the surprise of many and contrary to popular belief, it may open the gates and empower more people to create experiences for others.
+In the last part we will talk about automation and the impact of technology in our work. Automation is, without doubt, our ally against repetition. But automation might also unlock higher levels of abstraction in building software. And to the surprise of many and contrary to popular belief, it may open the gates and empower more people to create rich experiences for others.
