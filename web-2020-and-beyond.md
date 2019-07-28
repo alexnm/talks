@@ -8,7 +8,7 @@ Tags: User Experience, Frontend, Automation
 
 **tl;dr**
 
-The web recently turned 30, so maybe it's time to sit down and reflect on where we are and what lies ahead of us. Imagine this talk as a dance between the developer and the user, whom both want to be the lead, both with their own needs and struggles. First we will settle the dispute, we will look at the development ecosystem and then we will see how that balances out the needs of our users. Then we will shift our attention towards automation and the impact of technology in our work.
+The web recently turned 30, so maybe it's time to sit down and reflect on where we are and what lies ahead of us. Imagine this talk as a dance between the developer and the user, both whom want to lead, both with their own needs and struggles. First we will settle the dispute, we will look at the development ecosystem and then we will see how that balances out the needs of our users. Finally, we will shift our attention towards automation and the impact of technology in our work.
 
 **Long Version**
 
