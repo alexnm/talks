@@ -1,4 +1,4 @@
-Title: **Web 2020 and Beyond**
+Title: **2030: A Web Odyssey**
 
 Subtitle: Three bold predictions for the next decade of web development
 
